@@ -1,0 +1,19 @@
+/* Volunteer.css */
+.volunteer-section h2 {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+.list-group-item {
+    border: 1px solid #007bff;
+    margin-bottom: 1rem;
+}
+
+.signup-form h2 {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    margin-bottom: 1rem;
+}

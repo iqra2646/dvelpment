@@ -1,0 +1,24 @@
+/* Resources.css */
+.search-section h2 {
+    margin-bottom: 1rem;
+    color: #007bff;
+}
+
+.form-control {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.card {
+    border: 1px solid #007bff;
+}
+
+.card-title {
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 1rem;
+    line-height: 1.5;
+}

@@ -1,0 +1,19 @@
+/* ContactUs.css */
+.contact-form h2 {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.map-section h2 {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+iframe {
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}

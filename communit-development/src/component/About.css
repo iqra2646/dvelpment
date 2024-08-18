@@ -1,0 +1,42 @@
+/* AboutUs.css */
+.mission-vision {
+    padding: 2rem 0;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+.mission-vision h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #007bff;
+}
+
+.mission-vision p.lead {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.mission-vision p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.history {
+    padding: 2rem 0;
+}
+
+.history h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #007bff;
+}
+
+.history p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    max-width: 800px;
+}
